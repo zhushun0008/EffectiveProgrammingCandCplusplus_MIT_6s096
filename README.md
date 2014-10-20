@@ -1,6 +1,4 @@
 Effective Programming in C and C++ from MIT 6.s096
 ===========================================
 
-Study C plus plus for reading code of caffe
-
-### Three assignments and one final project
+## Three assignments and one final project for this course. My goal for studying this course is to reduce time for understanding code of Caffe, which is a well-desinged deep learning tool.
